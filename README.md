@@ -1,4 +1,4 @@
-# 🚀 Dev Portfolio Showcase
+# Dev Portfolio Showcase
 
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://rahul-vishwakarma-portfolio.vercel.app/)
 [![GitHub stars](https://img.shields.io/github/stars/optimus-node-js/My-Portfolio?style=social)](https://github.com/optimus-node-js/My-Portfolio/stargazers)
@@ -7,13 +7,13 @@
 
 ---
 
-## ✨ Live Demo
+## Live Demo
 
-🌐 [View Portfolio Live](https://rahul-vishwakarma-portfolio.vercel.app/)
+ [View Portfolio Live](https://rahul-vishwakarma-portfolio.vercel.app/)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > _Add your screenshots here!_
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -33,7 +33,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - Modern, responsive portfolio UI
 - Contact form with Firebase integration
@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v18+ recommended)
@@ -78,7 +78,7 @@ npm run preview
 
 ---
 
-## ☁️ Deployment
+## Deployment
 
 This project is ready to deploy on [Vercel](https://vercel.com/):
 - The production build outputs to the `dist` directory.
@@ -86,7 +86,7 @@ This project is ready to deploy on [Vercel](https://vercel.com/):
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!
 - Fork the repo
@@ -97,18 +97,18 @@ Contributions, issues and feature requests are welcome!
 
 ---
 
-## 📄 License
+## License
 
 This project is [MIT](LICENSE) licensed.
 
 ---
 
-## 👤 Author
+## Author
 
-**Rahul Vishwakarma**  
-[GitHub](https://github.com/optimus-node-js)  
+**Rahul Vishwakarma**
+[GitHub](https://github.com/optimus-node-js)
 [Portfolio](https://rahul-vishwakarma-portfolio.vercel.app/)
 
 ---
 
-> _Built with ❤️ using Vite + React + TypeScript_
+> _Built with using Vite + React + TypeScript_
