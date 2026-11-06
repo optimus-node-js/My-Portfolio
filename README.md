@@ -1,8 +1,8 @@
 # 🚀 Dev Portfolio Showcase
 
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://rahul-vishwakarma-portfolio.vercel.app/)
-[![GitHub stars](https://img.shields.io/github/stars/Rahul-gif-asus/my-full-stack-developer-portfolio?style=social)](https://github.com/Rahul-gif-asus/my-full-stack-developer-portfolio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Rahul-gif-asus/my-full-stack-developer-portfolio?style=social)](https://github.com/Rahul-gif-asus/my-full-stack-developer-portfolio/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/optimus-node-js/My-Portfolio?style=social)](https://github.com/optimus-node-js/My-Portfolio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/optimus-node-js/My-Portfolio?style=social)](https://github.com/optimus-node-js/My-Portfolio/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -53,7 +53,7 @@
 ### Installation
 ```bash
 # Clone the repo
-git clone https://github.com/Rahul-gif-asus/my-full-stack-developer-portfolio.git
+git clone https://github.com/optimus-node-js/My-Portfolio.git
 cd my-full-stack-developer-portfolio
 
 # Install dependencies
@@ -106,7 +106,7 @@ This project is [MIT](LICENSE) licensed.
 ## 👤 Author
 
 **Rahul Vishwakarma**  
-[GitHub](https://github.com/Rahul-gif-asus)  
+[GitHub](https://github.com/optimus-node-js)  
 [Portfolio](https://rahul-vishwakarma-portfolio.vercel.app/)
 
 ---
