@@ -5,6 +5,10 @@
 [![GitHub forks](https://img.shields.io/github/forks/optimus-node-js/My-Portfolio?style=social)](https://github.com/optimus-node-js/My-Portfolio/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+**Live:** [rahul-portfolio-2025.vercel.app](https://rahul-portfolio-2025.vercel.app)
+
+Previous edition. The current portfolio is [rahul-vishwakarma-portfolio.vercel.app](https://rahul-vishwakarma-portfolio.vercel.app).
+
 ---
 
 ## Live Demo
